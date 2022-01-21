@@ -1,0 +1,16 @@
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.exe
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.deps.json
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.runtimeconfig.json
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.runtimeconfig.dev.json
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.dll
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\ref\Task3.dll
+D:\C# Tasks\Task3\Task3\bin\Debug\net5.0\Task3.pdb
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.csproj.AssemblyReference.cache
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.AssemblyInfoInputs.cache
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.AssemblyInfo.cs
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.csproj.CoreCompileInputs.cache
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.dll
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\ref\Task3.dll
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.pdb
+D:\C# Tasks\Task3\Task3\obj\Debug\net5.0\Task3.genruntimeconfig.cache

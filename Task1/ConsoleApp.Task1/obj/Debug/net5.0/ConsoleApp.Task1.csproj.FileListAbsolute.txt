@@ -1,0 +1,16 @@
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.exe
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.deps.json
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.runtimeconfig.json
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.runtimeconfig.dev.json
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.dll
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ref\ConsoleApp.Task1.dll
+D:\C# Tasks\Task1\ConsoleApp.Task1\bin\Debug\net5.0\ConsoleApp.Task1.pdb
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.csproj.AssemblyReference.cache
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.AssemblyInfoInputs.cache
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.AssemblyInfo.cs
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.csproj.CoreCompileInputs.cache
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.dll
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ref\ConsoleApp.Task1.dll
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.pdb
+D:\C# Tasks\Task1\ConsoleApp.Task1\obj\Debug\net5.0\ConsoleApp.Task1.genruntimeconfig.cache
